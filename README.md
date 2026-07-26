@@ -7,7 +7,6 @@
 - 📈 Building projects to improve analytical and problem-solving skills
 
 - I'm passionate about transforming raw data into meaningful insights and creating dashboards that support better decision-making. I'm currently building my analytical skills through hands-on projects and consistent daily practice.
-- 
 
 - ## Skills
 - SQL
@@ -24,7 +23,6 @@
 - Power BI dashboard development
 - Data analysis projects
 
-- 
 ## 🎯 2026 Goals
 
 ✅ Master SQL
