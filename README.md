@@ -9,13 +9,7 @@
 - I'm passionate about transforming raw data into meaningful insights and creating dashboards that support better decision-making. I'm currently building my analytical skills through hands-on projects and consistent daily practice.
 
 - ## Skills
-- SQL
-- Excel
-- Power BI
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+- SQL - Excel - Power BI - Python - Pandas - NumPy - Matplotlib
 
 ## Current Focus
 - Daily SQL practice
